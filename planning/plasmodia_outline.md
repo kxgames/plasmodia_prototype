@@ -8,6 +8,7 @@ Two types of tiles
 Consumers need to be chained?
 ################################################################################
 
+Docs name: "plasmodia_prototype_v1"
 Name: Plasmodia (Expansion? Seizedom? Domain? Dominion? Extraction? Hexation?)
 
 Goal is to expand territory. Can take unoccupied territory or territory from others.
